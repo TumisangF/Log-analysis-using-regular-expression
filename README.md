@@ -1,2 +1,3 @@
 # Log-analysis-using-regular-expression
-Scripts that will process the system log and generate reports
+
+Extracted information from logs for service developers to understand how their software is used and how to improve it by writing a python script to that processes system logs and generates  reports
